@@ -1,6 +1,6 @@
 <?php
 
-namespace Phppot;
+namespace PhpTest;
 
 class DataSource
 {
